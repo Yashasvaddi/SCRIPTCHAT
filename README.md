@@ -18,6 +18,7 @@ Features
 🧠 Context-aware writing suggestions
 ⚡ Dynamic graph updates for every new dialogue or scene
 🎭 Emotional and conflict relationship tracking
+
 Tech Stack
 Python
 Neo4j
